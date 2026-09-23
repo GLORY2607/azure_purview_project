@@ -1,0 +1,4 @@
+TicketID,CustomerID,Issue,ContactEmail,Priority,CreatedDate
+ST01,C001,Unable to access account,aarav.rao@example.com,High,2026-09-05
+ST02,C002,Refund request,meera.shah@example.com,Medium,2026-09-06
+ST03,C003,Password reset,kiran.kumar@example.com,Low,2026-09-07

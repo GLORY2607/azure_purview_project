@@ -1,0 +1,4 @@
+ProductID,ProductName,Category,Price,SupplierEmail
+P001,Laptop Stand,Accessories,2499.00,supplier1@example.com
+P002,Wireless Mouse,Accessories,1299.00,supplier2@example.com
+P003,Keyboard,Accessories,1999.00,supplier3@example.com

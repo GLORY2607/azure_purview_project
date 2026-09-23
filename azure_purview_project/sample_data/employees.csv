@@ -1,0 +1,4 @@
+EmployeeID,EmployeeName,WorkEmail,Department,JoiningDate,Salary
+E101,Ananya Reddy,ananya.reddy@example.com,Finance,2024-06-10,65000
+E102,Rahul Das,rahul.das@example.com,IT,2023-08-21,72000
+E103,Sneha Rao,sneha.rao@example.com,HR,2022-02-14,68000

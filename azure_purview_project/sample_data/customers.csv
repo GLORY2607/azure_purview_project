@@ -1,0 +1,4 @@
+CustomerID,Name,Email,Phone,City,CustomerType
+C001,Aarav Rao,aarav.rao@example.com,+91-9000000001,Hyderabad,Regular
+C002,Meera Shah,meera.shah@example.com,+91-9000000002,Vijayawada,Premium
+C003,Kiran Kumar,kiran.kumar@example.com,+91-9000000003,Visakhapatnam,Regular

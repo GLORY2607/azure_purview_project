@@ -1,0 +1,4 @@
+TransactionID,CustomerID,Amount,CardLast4,TransactionDate,PaymentStatus
+T1001,C001,2499.00,1234,2026-09-01,Success
+T1002,C002,7999.00,5678,2026-09-02,Success
+T1003,C003,1499.00,9012,2026-09-03,Failed

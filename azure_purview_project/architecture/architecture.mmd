@@ -1,0 +1,10 @@
+flowchart LR
+    A[Azure Blob Storage\ncustomers.csv] --> P[Microsoft Purview\nData Map]
+    B[ADLS Gen2\nemployees.csv] --> P
+    C[Azure SQL Database\ntransactions] --> P
+    D[Azure Data Explorer\nproducts] --> P
+    E[Power BI / Supported Source\nsupport_tickets] --> P
+    P --> M[Metadata + Schema]
+    P --> CL[Classifications]
+    CL --> S[Sensitive Data Locations]
+    S --> V[Business Validation]

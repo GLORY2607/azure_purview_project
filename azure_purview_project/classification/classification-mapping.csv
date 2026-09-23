@@ -1,0 +1,11 @@
+Source,Field,Expected_Data_Type,Possible_Sensitivity,Validation_Needed
+Blob/customers.csv,Name,string,Person information,Yes
+Blob/customers.csv,Email,string,Personal/contact information,Yes
+Blob/customers.csv,Phone,string,Personal/contact information,Yes
+ADLS/employees.csv,EmployeeName,string,Person information,Yes
+ADLS/employees.csv,WorkEmail,string,Personal/contact information,Yes
+ADLS/employees.csv,Salary,number,Employee/financial information,Yes
+AzureSQL/transactions,CardLast4,string,Financial/payment-related information,Yes
+AzureSQL/transactions,Amount,decimal,Financial information,Yes
+ADX/products,SupplierEmail,string,Personal/contact information,Yes
+PowerBI/support_tickets,ContactEmail,string,Personal/contact information,Yes
